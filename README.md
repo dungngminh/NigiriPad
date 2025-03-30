@@ -1,4 +1,5 @@
 # NigiriPad
+Explore my macropad (miniature programmable keyboard) that I built from scratch using only SI units! This macropad is inspired by my love for sushi nigiri, cats, and the video game Osu!
 
 # BOM:
 - 3x linear MX Switches
