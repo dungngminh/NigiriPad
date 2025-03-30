@@ -1,11 +1,11 @@
 # NigiriPad
 
 # BOM:
-- 3x linear MX Switches (akko creamy pros perchance c:)
+- 3x linear MX Switches
 - 1x PCB 
 - Fully white printed case (I'll paint on the details)
 - 3x keycaps!
-- 4x m3x18mm screws (2.9 Diameter)
+- 4x m3 18mm screws (2.9mm Diameter)
 
 ![unnamed](https://github.com/user-attachments/assets/3ec939e7-5c2f-4628-91d5-7aeafd76d2bc)
 
