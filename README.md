@@ -8,7 +8,8 @@ Explore my macropad (miniature programmable keyboard) that I built from scratch 
 - 3x keycaps!
 - 4x m3 18mm screws (2.9mm Diameter)
 
-![unnamed](https://github.com/user-attachments/assets/3ec939e7-5c2f-4628-91d5-7aeafd76d2bc)
+
+<img src="https://github.com/user-attachments/assets/b1be5470-10cb-4564-8cec-5b5b86ba8004" height=500 />
 
 <img src="https://github.com/user-attachments/assets/cdff7555-a999-4df6-93f2-cf1760abc31d" height=400 />
 <img src="https://github.com/user-attachments/assets/121a0699-8cfa-4810-b4c1-2f1751bde407" height=400 />
